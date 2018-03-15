@@ -9,7 +9,5 @@ def oxford_comma(array)
     array.join(", ")
     last.join
     array << last
-  else
-
   end
 end
